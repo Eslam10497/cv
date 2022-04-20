@@ -1,0 +1,35 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 4%;
+  border-color: grey;
+}
+H1{
+  color: #66BFBF;
+  font-family: times;
+}
+H2{
+  color: #66BFBF;
+  font-family: Arial;
+}
+H3{
+  color: #66BFBF;
+  font-family: Arial;
+}
+H4{
+  color: #66BFBF;
+  font-family: courier New;
+}
+ul{
+  font-family:sans-serif;
+}
+th{
+  color:  #66BFBF;
+  text-decoration: underline;
+}
+td{
+  color: #03045E;
+}
